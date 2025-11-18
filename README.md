@@ -11,7 +11,7 @@
 **Estructura mínima**
 
 - `img_to_pdf.py`: script principal.
-- `img/`: carpeta donde deben colocarse las imágenes (`.jpg`, `.jpeg`, `.png`).
+- `img/`: carpeta donde deben colocarse las imágenes (`.jpg`, `.jpeg`, `.png`). Debe ser creada manualmente.
 - `output/`: carpeta donde se almacenan los PDFs generados (el script crea esta carpeta si no existe).
 
 **Uso básico**
@@ -54,3 +54,4 @@ py img_to_pdf.py informe_final
 **Contacto / Contribuir**
 
 - Abrir un issue o enviar un pull request si querés mejoras (por ejemplo: soporte para orden natural, más formatos, o flags CLI).
+
